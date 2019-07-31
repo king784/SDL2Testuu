@@ -1,0 +1,2 @@
+g++ main.c -ID:\LibsAndIncludes\SDL2-devel-2.0.10-mingw\SDL2-2.0.10\i686-w64-mingw32\include\SDL2 -LD:\LibsAndIncludes\SDL2-devel-2.0.10-mingw\SDL2-2.0.10\i686-w64-mingw32\lib -w -Wl,-subsystem,windows -lmingw32 -lSDL2main -lSDL2 -o Game
+pause
